@@ -1,6 +1,7 @@
 Metadata-Version: 2.4
 Name: removebg
-Version: 1.0
+Version: 1.1
 Requires-Dist: rembg>=2.0
 Requires-Dist: pillow>=9.0
+Requires-Dist: onnxruntime>=1.15.1
 Dynamic: requires-dist
