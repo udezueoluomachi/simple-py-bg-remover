@@ -1,0 +1,8 @@
+removebg.py
+setup.py
+removebg.egg-info/PKG-INFO
+removebg.egg-info/SOURCES.txt
+removebg.egg-info/dependency_links.txt
+removebg.egg-info/entry_points.txt
+removebg.egg-info/requires.txt
+removebg.egg-info/top_level.txt
